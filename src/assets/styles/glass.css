@@ -1,0 +1,17 @@
+/* Glassmorphism Boulalulue — luxury café, BUKAN glass ala dashboard SaaS.
+   Spesifikasi: DESIGN.md §4. Jangan diubah tanpa revisi DESIGN.md. */
+
+.glass-panel {
+  background: rgba(255, 248, 238, 0.08);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 225, 180, 0.18);
+  box-shadow: 0 12px 40px rgba(35, 18, 10, 0.18);
+}
+
+.glass-nav {
+  background: rgba(36, 21, 15, 0.45);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(215, 168, 61, 0.15);
+}

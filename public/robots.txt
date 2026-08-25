@@ -1,0 +1,6 @@
+# TODO_VERIFY: ganti domain final sebelum production launch (PLAN.md §11)
+User-agent: *
+Allow: /
+Disallow: /admin
+
+Sitemap: https://boulalulue.com/sitemap.xml

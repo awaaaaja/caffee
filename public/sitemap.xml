@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO_VERIFY: ganti domain final sebelum production launch (PLAN.md §11) -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://boulalulue.com/</loc></url>
+  <url><loc>https://boulalulue.com/menu</loc></url>
+  <url><loc>https://boulalulue.com/story</loc></url>
+  <url><loc>https://boulalulue.com/experience</loc></url>
+  <url><loc>https://boulalulue.com/gallery</loc></url>
+  <url><loc>https://boulalulue.com/location</loc></url>
+  <url><loc>https://boulalulue.com/reservation</loc></url>
+</urlset>
